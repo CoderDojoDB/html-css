@@ -1,0 +1,11 @@
+.artikel {
+    border: 1px solid #00ff00; padding: 5px;
+}
+
+.kop {
+    color:red;
+}
+
+.paragraaf {
+    color: blue;
+}

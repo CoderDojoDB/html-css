@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/html_css_1.iml" filepath="$PROJECT_DIR$/html_css_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap1/stap1.iml" filepath="$PROJECT_DIR$/stap1/stap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap2/stap2.iml" filepath="$PROJECT_DIR$/stap2/stap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap3/stap3.iml" filepath="$PROJECT_DIR$/stap3/stap3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap4/stap4.iml" filepath="$PROJECT_DIR$/stap4/stap4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap5/stap5.iml" filepath="$PROJECT_DIR$/stap5/stap5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap6/stap6.iml" filepath="$PROJECT_DIR$/stap6/stap6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stap7/stap7.iml" filepath="$PROJECT_DIR$/stap7/stap7.iml" />
     </modules>
   </component>
 </project>
